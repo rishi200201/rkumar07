@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body><center>
+    <marquee direction="right">vanakam</marquee>
+     <strong>hi bros</strong> <br> 
+     <em>enada pandriga</em><br>
+     <del>500rs</del>122<br>
+     <mark>webtech</mark><br>
+     <u>rishi</u><br>
+     <h1>thala</h1>
+     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi commodi, cupiditate tempora modi dolor accusantium? Quae sit deserunt odit officiis vel quidem, vero itaque alias autem eum cumque obcaecati. Ratione.</p>
+    <b> h<sub>2</sub>o </b> <br>
+    <b>a<sup>2</sup>+b<sup>2</sup>+2ab=(a+b)<sup>2</sup></b></center>
+</body>
+</html>
